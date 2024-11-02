@@ -7,3 +7,6 @@ Doey is a minimal and intuitive to-do list application built to help users manag
 - Organize tasks by importance, due date, or name of the task
 - Simple and user-friendly interface
 - Built with Swift, SwiftUI, and SwiftData
+
+## Demo
+![](https://github.com/2Mhd6/Doey/blob/main/Doey.gif)

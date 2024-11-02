@@ -9,4 +9,4 @@ Doey is a minimal and intuitive to-do list application built to help users manag
 - Built with Swift, SwiftUI, and SwiftData
 
 ## Demo
-![](https://github.com/Doey/Doey.gif)
+![](https://raw.githubusercontent.com/2Mhd6/Doey/main/Doey.gif)
